@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Likit 👋</h1>
+<h1 align="center">Hi, I'm Likit 💖</h1>
 <p align="center">
   <b>Data Science & IT student</b> · Thonburi University<br/>
   Mostly Python, some web stuff, learning Go right now.
