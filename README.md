@@ -40,7 +40,7 @@
 </p>
 
 ### 🏁 Hackathon
-- Team **BNB** got through **AWS Thaksa AI Hackathon**, now competing in **AI FOR ALL** (Thammasat · TU RAC · Thaksa AI) on the smart mobility track 🚌
+- Team **BNB** got through **AWS Thaksa AI Hackathon**, now competing in **AI FOR ALL** (Thammasat · TU RAC · Thaksa AI) on the smart mobility track
 
 ### 📈 GitHub stats
 <p>
