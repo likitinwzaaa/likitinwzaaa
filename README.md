@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://likit.work"><img src="https://img.shields.io/badge/Website-likit.work-0d1117?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:likitidontunderstand@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0d1117?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:dm@likit.work"><img src="https://img.shields.io/badge/Email-Contact-0d1117?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/qu1nxc._"><img src="https://img.shields.io/badge/Instagram-qu1nxc._-0d1117?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
 
