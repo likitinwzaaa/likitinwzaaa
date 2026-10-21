@@ -37,6 +37,15 @@
 <table>
   <tr>
     <td width="110" align="center">
+      <a href="https://www.credly.com/users/likitinwzaaa"><img src="https://images.credly.com/size/110x110/images/203876a1-9502-4709-8f71-a31797c1db5d/image.png" width="80" alt="IT Specialist - Data Analytics" /></a>
+    </td>
+    <td>
+      <b>IT Specialist – Data Analytics</b><br/>
+      Certiport (Pearson VUE) · top 3 in my cohort · verified on Credly
+    </td>
+  </tr>
+  <tr>
+    <td width="110" align="center">
       <a href="https://www.credly.com/users/likitinwzaaa"><img src="https://images.credly.com/size/110x110/images/39d63f97-1618-45f8-b3d7-528942d06280/blob" width="80" alt="AI Powered IT Specialist" /></a>
     </td>
     <td>
@@ -51,15 +60,6 @@
     <td>
       <b>Critical Career Skills – Generative AI Foundations</b><br/>
       Certiport (Pearson VUE) · verified on Credly
-    </td>
-  </tr>
-  <tr>
-    <td width="110" align="center">
-      <a href="https://www.credly.com/users/likitinwzaaa"><img src="https://images.credly.com/size/110x110/images/203876a1-9502-4709-8f71-a31797c1db5d/image.png" width="80" alt="IT Specialist - Data Analytics" /></a>
-    </td>
-    <td>
-      <b>IT Specialist – Data Analytics</b><br/>
-      Certiport (Pearson VUE) · top 3 in my cohort · verified on Credly
     </td>
   </tr>
 </table>
