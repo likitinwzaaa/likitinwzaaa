@@ -1,7 +1,16 @@
-<h1 align="center">Hi, I'm Likit 💖</h1>
 <p align="center">
-  <b>Data Science & IT student</b> · Thonburi University<br/>
+  <img src="./assets/banner.gif" alt="Likit Pongsakaew" width="100%" />
+</p>
+
+<p align="center">
+  <b>🎓 2nd-year Data Science & IT student</b> at Thonburi University<br/>
   Mostly Python, some web stuff, learning Go right now.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Year-2nd%20year-a371f7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Based%20in-Bangkok,%20TH-38bdf8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Data%20·%20Backend-1f6feb?style=flat-square" />
 </p>
 
 <p align="center">
@@ -13,7 +22,7 @@
 ---
 
 ### 🧑‍💻 About me
-- 🎓 2nd year, Data Science & IT at Thonburi University
+- 🎓 **2nd year**, Data Science & IT at Thonburi University
 - 📊 Passed IT Specialist Data Analytics, top 3 in my cohort
 - 🏛️ NSO Data Innovator, cohort 2
 - 🏆 Made it into MOS Olympic Thailand 2027
@@ -76,4 +85,4 @@
   <img src="https://streak-stats.demolab.com?user=likitinwzaaa&hide_border=true&theme=github-dark-blue" />
 </p>
 
-# © likit.work
+<p align="center"><sub>© likit.work</sub></p>
