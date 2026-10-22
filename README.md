@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.gif" alt="Likit Pongsakaew" width="100%" />
+  <img src="./assets/banner.svg" alt="Likit Pongsakaew" width="100%" />
 </p>
 
 <p align="center">
